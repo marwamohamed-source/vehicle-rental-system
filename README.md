@@ -1,2 +1,7 @@
-# vehicle-rental-system
-A JavaFX desktop application for managing vehicle rentals
+# Vehicle Rental System
+A JavaFX desktop application built in Java that allows users to browse vehicles,
+make bookings, manage customer records, and track rental history.
+
+## Technologies Used
+- Java
+- JavaFX
